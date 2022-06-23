@@ -1,3 +1,7 @@
-console.log("My Name: Eze David Chibuzor");
-console.log("Height: 167.64cm");
-console.log("Country: Nigeria");
+var myName = "Eze David Chibuzor";
+var myHeight = "167.64cm";
+var myCountry = "Nigeria";
+
+console.log("My name is",myName);
+console.log("I am", myHeight, "in Height");
+console.log("I am from", myCountry);
